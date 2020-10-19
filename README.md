@@ -31,6 +31,6 @@
     * Server/DB : XAMPP(Apache, MySQL)     
 
 # 3. Reference
-    * https://www.opentutorials.org/module/4168/25441
-    * https://laravel.kr/docs/7.x
-    * https://github.com/appkr/l5essential
+    * <https://www.opentutorials.org/module/4168/25441>
+    * <https://laravel.kr/docs/7.x>
+    * <https://github.com/appkr/l5essential>
